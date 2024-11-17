@@ -1,0 +1,3 @@
+Description: A delicate, shimmering silver-colored herb that grows in shaded forest groves, usually near water sources. Its leaves have a soft glow in moonlight, which is when they are at their most potent.
+
+Healing Properties: Silverleaf is renowned for its ability to accelerate wound healing and reduce inflammation. When crushed and applied as a poultice, it quickly soothes burns, cuts, and bruises. In potion form, it strengthens the body's natural healing abilities, aiding in the recovery from internal injuries or severe blood loss. Silverleaf is especially effective when combined with restorative magic, amplifying the effects of healing spells.

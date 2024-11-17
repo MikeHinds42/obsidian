@@ -1,0 +1,4 @@
+- Walking -  15 for a group and equipment on flat well maintained road. Down to 5 in mountains.
+- Riding - 30 miles , 20 with pack animals. 
+- Wagon - 12 miles
+- Ship -  42 day time, 24 night , total 66 per day

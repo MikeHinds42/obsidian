@@ -1,0 +1,11 @@
+- Less than 2 yards +0
+- 3 yards -1
+- 5 yards -2
+- 7 yards -3
+- 10 yards -4
+- 15 yards -5
+- 20 yards -6
+- 30 yards -7
+- 50 yards -8
+- 70 yards -9
+- 100 yards -10

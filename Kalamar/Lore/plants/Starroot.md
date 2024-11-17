@@ -1,0 +1,3 @@
+Description: A deep blue root that grows in the rich soil of enchanted glades, marked by small, star-shaped flowers blooming above the ground. Starroot is rare and difficult to cultivate, thriving only in areas rich in natural magic.
+
+Healing Properties: Starroot has potent restorative and revitalizing qualities, particularly for exhaustion and magical depletion. When brewed into a tea, it replenishes energy and alleviates fatigue, both physical and magical. Elven healers often use Starroot in recovery tonics for those who have suffered from magical overexertion or prolonged illness. It is also known to strengthen the body's resilience to future illnesses if taken regularly.
