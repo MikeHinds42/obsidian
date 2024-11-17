@@ -1,5 +1,5 @@
 
-#### Visualization [](B.pdf#page=96)
+#### Visualization [[B.pdf#page=96]]
 
 - select a skill to attempt including skills you know
 - describe the scene
@@ -7,7 +7,7 @@
 - roll IQ , modified by difference and GM bonus
 - margin of success (min +1)  almost true 1/2 , 1/3 no min for quite different
 
-#### Wild Talent [](B.pdf#page=99)
+#### Wild Talent [[B.pdf#page=99]]
 
 - Once per game session
 - Any skill which has default use attribute. and you don't know.
